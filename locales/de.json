@@ -1,6 +1,15 @@
 {
     "LocaleSprites": {
-		"ui_wave_huge": ""
+		"ui_achievement": ["ui_achievement.png", 18, 150, 42],
+		"ui_announcement": ["ui_announcement.png", 2, 202, 154],
+		"ui_wave_huge": ["ui_wave_huge.png", 2, 200, 30],
+		"ui_readysetcry": ["ui_readysetcry.png", 4, 86, 33],
+		"game_over_text": ["game_over_text.png", 1, 290, 29],
+		"ui_babies_catalogue": ["ui_babies_catalogue.png", 1, 131, 140],
+		"ui_start_button": ["ui_start_button.png", 2, 0, 0],
+		"ui_pause_button": ["ui_pause_button.png", 2, 81, 0],
+		"ui_continue_button": ["ui_continue_button.png", 2, 126, 62],
+		"ui_item_soldout": ["ui_item_soldout.png", 1, 12, 0]
 	},
 
     "goodNews": "Gute Neuigkeiten!",
@@ -89,11 +98,11 @@
     "achievementDetails1": "Platziere zwei Reihen Stachel Babies",
     "achievementDetails2": "Füttere 3 Pillen an ein Baby",
     "achievementDetails3": "Entschärfe Mulliboom",
-    "achievementDetails4": "Zerstöre 10 Gegner mit einer Explosion",
-    "achievementDetails5": "Beschütze eine verlorene Seele mit dem Buch der Schatten",
+    "achievementDetails4": "Zerstöre 10 Gegner#mit einer Explosion",
+    "achievementDetails5": "Beschütze eine verlorene Seele#mit dem Buch der Schatten",
     "achievementDetails6": "Beende ein Level mit nur#roten Babies im Deck",
-    "achievementDetails7": "Beende jedes Kapitel, ohne#Herz-produzierende Babies zu benutzen",
-    "achievementDetails8": "Beende jedes Kapitel, während du nur#versteckte Babies aussuchst",
+    "achievementDetails7": "Beende jedes Kapitel,#ohne Herz-produzierende#Babies zu benutzen",
+    "achievementDetails8": "Beende jedes Kapitel, während du#nur versteckte Babies aussuchst",
     "achievementDetails9": "Beende jedes Kapitel, ohne#aktive Gegenstände zu benutzen",
     "achievementDetails10": "Beende jedes Kapitel, ohne#deine Larven zu verlieren",
     "achievementDetails11": "Beende Herausforderung N1",
