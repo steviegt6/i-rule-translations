@@ -4,7 +4,7 @@
 		"ui_announcement": ["ui_announcement.png", 2, 202, 154],
 		"ui_wave_huge": ["ui_wave_huge.png", 2, 200, 30],
 		"ui_readysetcry": ["ui_readysetcry.png", 4, 86, 33],
-		"game_over_text": ["ui_game_over_text.png", 1, 290, 29],
+		"game_over_text": ["game_over_text.png", 1, 290, 29],
 		"ui_babies_catalogue": ["ui_babies_catalogue.png", 1, 131, 140],
 		"ui_start_button": ["ui_start_button.png", 2, 0, 0],
 		"ui_pause_button": ["ui_pause_button.png", 2, 81, 0],
