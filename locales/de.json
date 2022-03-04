@@ -1,7 +1,7 @@
 {
     "LocaleSprites": {
 		"ui_achievement": ["ui_achievement.png", 18, 150, 42],
-		"ui_announcement": ["ui_announcement.png", 2, 202, 154],
+		"ui_announcement": ["ui_announcement.png", 2, 131, 133],
 		"ui_wave_huge": ["ui_wave_huge.png", 2, 209, 21],
 		"ui_readysetcry": ["ui_readysetcry.png", 4, 128, 33],
 		"game_over_text": ["game_over_text.png", 1, 290, 29],
