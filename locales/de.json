@@ -9,7 +9,7 @@
 		"ui_start_button": ["ui_start_button.png", 2, 0, 0],
 		"ui_pause_button": ["ui_pause_button.png", 2, 81, 0],
 		"ui_continue_button": ["ui_continue_button.png", 2, 126, 62],
-		"ui_item_soldout": ["ui_item_soldout.png", 1, 75, 0]
+		"ui_item_soldout": ["ui_item_soldout.png", 1, 12, 0]
 	},
 
     "goodNews": "Gute Neuigkeiten!",
