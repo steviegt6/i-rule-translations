@@ -34,6 +34,8 @@
 	"gameSettingMusicSpeed2": "Musik Geschwindigkeit: Ändert sich nicht",
 	"gameSettingFlashingEffectsOn": "Blinkeffekte: An",
 	"gameSettingFlashingEffectsOff": "Blinkeffekt: Aus",
+    "gameSettingAutoPauseOn": "Auto Pausieren: An",
+	"gameSettingAutoPauseOff": "Auto Pausieren: Aus",
     "gameSettingFullscreen": "Vollbildmodus",
     "gameSettingLanguage": "Sprache: Deutsch",
     "gamePausedQuit": "Spiel beenden",
