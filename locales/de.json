@@ -9,7 +9,7 @@
 		"ui_start_button": ["ui_start_button.png", 2, 0, 0],
 		"ui_pause_button": ["ui_pause_button.png", 2, 81, 0],
 		"ui_continue_button": ["ui_continue_button.png", 2, 126, 62],
-		"ui_item_soldout": ["ui_item_soldout.png", 1, 12, 0]
+		"ui_item_soldout": ["ui_item_soldout.png", 1, 66, 0]
 	},
 
     "goodNews": "Gute Neuigkeiten!",
@@ -193,7 +193,7 @@
     "it1description19A": "Doppelt antippen, um Babies zu drehen",
     "it1description20": "Ändere dein Schicksal",
     "it1description21": "Lass es uns es etwas verlangsamen...",
-    "it1description22": "Zwei Belohnungen nach besiegtem Boss, nur eine kann genommen werden",
+    "it1description22": "Zwei Belohnungen nach besiegtem Boss, entscheide dich",
     "it2description0": "Extra Energie",
     "it2description1": "Gibt eine 33% Rabatt im Laden",
     "it2description2": "Erlaubt es dir ein zusätzliches Babie mitzunehmen",
