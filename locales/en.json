@@ -352,5 +352,11 @@
 	"enemyDescription16": "Tries to steal your babies",
 	"enemyDescription17": "Queen of all rags",
 	"enemyDescription18": "His mask protects him from negative effects and criticism",
-	"enemyDescription19": "I don't even know at this point"
+	"enemyDescription19": "I don't even know at this point",
+	"curseName0": "Curse of Vanishing",
+	"curseName1": "Curse of Unknown",
+	"curseName2": "Curse of Struggle",
+	"curseDescription0": "Pickups disappear faster",
+	"curseDescription1": "Your future is uncertain...",
+	"curseDescription2": "This battle will never end..."
 }

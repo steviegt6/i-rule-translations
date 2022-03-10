@@ -365,5 +365,11 @@
     "enemyDescription16": "Versucht deine Babies zu klauen",
     "enemyDescription17": "Königin aller Lumpen",
     "enemyDescription18": "Seine Maske schützt ihn vor negativen Effekten und Kritik",
-    "enemyDescription19": "Ich weiss auch nicht weiter"
+    "enemyDescription19": "Ich weiss auch nicht weiter",
+	"curseName0": "Fluch des Verschwindens",
+	"curseName1": "Fluch des Unbekannten",
+	"curseName2": "Fluch des Kampfes",
+	"curseDescription0": "Items verschwinden schneller",
+	"curseDescription1": "Deine Zukunft ist ungewiss...",
+	"curseDescription2": "Dieser Kampf wird niemals enden..."
 }
