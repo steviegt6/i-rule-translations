@@ -34,6 +34,8 @@
             "gameSettingMusicSpeed2": "音乐速度：保持恒定",
             "gameSettingFlashingEffectsOn": "闪烁效果：开",
             "gameSettingFlashingEffectsOff": "闪烁效果：关",
+            "gameSettingAutoPauseOn": "自动暂停：开",
+            "gameSettingAutoPauseOff": "自动暂停：关",
             "gameSettingFullscreen": "显示模式：窗口",
             "gameSettingLanguage": "语言：简体中文",
             "gamePausedQuit": "退出游戏",
@@ -362,5 +364,11 @@
             "enemyDescription16": "想偷你的宝宝",
             "enemyDescription17": "所有绷带巫毒生物的女王",
             "enemyDescription18": "他的面具保护他免受负面影响和批评",
-            "enemyDescription19": "这点我甚至不知道"
+            "enemyDescription19": "这点我甚至不知道",
+            "curseName0": "消失诅咒",
+            "curseName1": "未知诅咒",
+            "curseName2": "斗争诅咒",
+            "curseDescription0": "掉落物消失的更快",
+            "curseDescription1": "你的未来是未知的...",
+            "curseDescription2": "这场战斗永远不会结束...",
 }
