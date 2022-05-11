@@ -1,16 +1,9 @@
 {
-    "LocaleSprites": {
-		"ui_achievement": ["ui_achievement.png", 18, 150, 42],
-		"ui_announcement": ["ui_announcement.png", 2, 131, 133],
-		"ui_wave_huge": ["ui_wave_huge.png", 2, 209, 21],
-		"ui_readysetcry": ["ui_readysetcry.png", 4, 128, 33],
-		"game_over_text": ["game_over_text.png", 1, 290, 29],
-		"ui_babies_catalogue": ["ui_babies_catalogue.png", 1, 131, 140],
-		"ui_start_button": ["ui_start_button.png", 2, 0, 0],
-		"ui_pause_button": ["ui_pause_button.png", 2, 81, 0],
-		"ui_continue_button": ["ui_continue_button.png", 2, 126, 62],
-		"ui_item_soldout": ["ui_item_soldout.png", 1, 66, 0]
-	},
+    "LocaleSprites": [
+		"ui_achievement", "ui_announcement", "ui_wave_huge", "ui_readysetcry",
+		"game_over_text", "ui_babies_catalogue", "ui_start_button", "ui_pause_button",
+		"ui_continue_button", "ui_item_soldout"
+    ],
 
     "goodNews": "Gute Neuigkeiten!",
     "newUpdate1": "Ein neues Update ist verfügbar!##",
@@ -347,17 +340,17 @@
     "enemyName1": "Fliege",
     "enemyName2": "Fetti",
     "enemyName3": "Pflaume",
-    "enemyName4": "Trite",
+    "enemyName4": "Flinki",
     "enemyName5": "Beißer",
     "enemyName6": "Gurgler",
     "enemyName7": "Hartschädel",
     "enemyName8": "Mulliboom",
-    "enemyName9": "Squirt",
+    "enemyName9": "Spritzer",
     "enemyName10": "Steiner",
     "enemyName11": "Null",
     "enemyName12": "Frosty",
     "enemyName13": "Harty",
-    "enemyName14": "Pottwal",
+    "enemyName14": "Sperma Wal",
     "enemyName15": "Mega Pflaume",
     "enemyName16": "Mom's Hand",
     "enemyName17": "Ragdoll",
