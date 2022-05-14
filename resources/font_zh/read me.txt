@@ -1,0 +1,4 @@
+https://github.com/ACh-K/Cubic-11/releases
+Same font as the simplified Chinese item description in the binding of isaac.
+
+At first, the font I used was ComicSansCHN.The effect is also good.
