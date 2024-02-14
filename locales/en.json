@@ -1,4 +1,12 @@
 {
+	
+	
+	
+	
+	
+	
+	"languageName": "English",
+	
 	"goodNews": "Good news!",
 	"newUpdate1": "A new update is available!##",
 	"newUpdate2": "Open the download page",
@@ -12,23 +20,35 @@
 	"unknown": "Unknown",
 	"wasntEncountered": "Wasn't encountered yet",
 	"chooseActive": "Active Item (choose one)",
+	
+	"switchOptionStateOn": "On",
+	"switchOptionStateOff": "Off",
+	
 	"gamePaused": "Game paused",
 	"gamePausedContinue": "Continue",
 	"gamePausedRestart": "Restart",
+	
+	"menuCategoryAudio": "Audio",
+	"menuCategoryVideo": "Video",
+	"menuCategoryGame": "Game",
+	
 	"gameSettingMusic": "Music volume",
 	"gameSettingSound": "Sound volume",
-	"gameSettingMusicSpeed1": "Music speed: Depends on game's speed",
-	"gameSettingMusicSpeed2": "Music speed: Doesn't change",
-	"gameSettingFlashingEffectsOn": "Flashing Effects: On",
-	"gameSettingFlashingEffectsOff": "Flashing Effects: Off",
-	"gameSettingAutoPauseOn": "Autopause: On",
-	"gameSettingAutoPauseOff": "Autopause: Off",
+	"gameSettingMusicSpeed": "Music speed",
+	"gameSettingMusicSpeed1": "Doesn't change",
+	"gameSettingMusicSpeed2": "Depends on game's speed",
+	"gameSettingFlashingEffects": "Flashing Effects",
+	"gameSettingAutoPause": "Аutopause",
 	"gameSettingFullscreen": "Fullscreen",
-	"gameSettingLanguage": "Language: English",
-	"gameSettingFastModeOn": "Fast transitions: On",
-	"gameSettingFastModeOff": "Fast transitions: Off",
+	"gameSettingLanguage": "Language",
+	"gameSettingFastMode": "Fast transitions",
+	"gameSettingCardLayout": "Card layout",
+	"gameSettingCardLayout1": "Horizontal",
+	"gameSettingCardLayout2": "Vertical",
+	"gameSettingPillPreview": "Pill preview",
+	"gameSettingPillPreviewDesc": "Known pills have their name displayed when dropped",
 	"gamePausedQuit": "Quit Game",
-	"gameSettingWindowMode": "Window Mode",
+	
 	"gamePausedNewRun": "New Run",
 	"gamePausedStats": "Stats",
 	"gamePausedAchievements": "Achievements",
@@ -39,6 +59,7 @@
 	"gamePausedQuitToMenu": "Quit to Menu",
 	"gamePausedBack": "Back",
 	"gamePausedSettings": "Settings",
+	
 	"file": "File",
 	"fileSelect": "File Select",
 	"gameMode1": "Normal Mode",
@@ -49,15 +70,12 @@
 	"gameMode2DescriptionLocked": "Loop twice in one run to unlock",
 	"gameMode3Description": "More ways to play",
 	"gameMode3DescriptionLocked": "Complete every chapter to unlock",
-	"gamePausedDescriptionRestart": "Hold R to restart (all progress will be lost!)",
+	"gamePausedDescriptionRestart": "Hold to restart (all progress will be lost!)",
 	"gamePausedDescriptionQuitToMenu": "Hold to quit (your progress will be saved)",
 	"gamePausedSocialTwitter": "Cancel (on Twitter)",
 	"gamePausedSocialDiscord": "Send a threatening message (on Discord)",
 	"gamePausedDescriptionAchievements": "Scroll up/down using the mouse wheel",
-	"gameSettingDescriptionSound": "LMB or RMB to adjust the volume",
 	"gameSettingDescriptionFullscreen": "Or just press F",
-	"gameSettingCardStyleVertical": "Card style: Vertical",
-	"gameSettingCardStyleHorizontal": "Card style: Horizontal",
 	"gameSettingDescriptionCardStyle": "Affects how slots are arranged",
 	"statsUnlockedContent": "Unlocked content: ",
 	"statsKilledEnemies": "Vanquished enemies: ",
@@ -117,6 +135,10 @@
 	"challenges5": "Limited Edition",
 	"challenges6": "Shape Shifter",
 	"shapeShifterRotate": "Scroll up/down (or press Q/E) to rotate the shape",
+	
+	"it0name0": "Charger Replacement Token",
+	"it0name1": "Black Candle",
+	
 	"it1name0": "Red Shovel",
 	"it1name1": "Champion Belt",
 	"it1name2": "Little Baggy",
@@ -150,10 +172,7 @@
 	"it2name6": "Sanguine Bond",
 	"it2name7": "The Black Bean",
 	"it2name8": "Eye Of Greed",
-	"itChargerToken": "Charger Replacement Token",
-	"itChargerTokenDescription": "Allows you to replace one of your fallen chargers",
-	"itBlackCandle": "Black Candle",
-	"itBlackCandleDescription": "Allows you to break a specific curse",
+	
 	"itActiveName0": "Book of Shadows",
 	"itActiveName1": "Doctor's Remote",
 	"itActiveName2": "The Poop",
@@ -171,6 +190,10 @@
 	"itActiveName14": "Breath of Life",
 	"itActiveName15": "Candy Heart",
 	"itActiveName16": "Dropper",
+	
+	"it0description0": "Allows to restore one of your used chargers",
+	"it0description1": "Allows to break one specific curse",
+	
 	"it1description0": "Take back what belongs to you",
 	"it1description1": "More waves on each level",
 	"it1description2": "Allows to carry four pills",
@@ -194,7 +217,8 @@
 	"it1description19A": "Double Tap to turn babies around",
 	"it1description20": "Reroll your destiny",
 	"it1description21": "Let's slow this down a bit...",
-	"it1description22": "Two rewards after beating a Boss, only one can be taken",
+	"it1description22": "Choose between three boss rewards instead of two",
+	
 	"it2description0": "Stores energy",
 	"it2description1": "Gives a 33% discount in Stores",
 	"it2description2": "Allows to carry one more baby with you",
@@ -204,6 +228,7 @@
 	"it2description6": "Installs spikes in front of your defensive babies",
 	"it2description7": "Newly placed babies fart, poisoning nearby enemies",
 	"it2description8": "Babies that weren't picked during previous level will cost less",
+	
 	"itActiveDescription0": "Gives a protecting aura",
 	"itActiveDescription1": "Reusable air strike",
 	"itActiveDescription2": "Shit of piece",
@@ -221,6 +246,7 @@
 	"itActiveDescription14": "Brings fallen babies back to life",
 	"itActiveDescription15": "Start with more hearts, sacrificing your active slot",
 	"itActiveDescription16": "Allows you to share the shooting style of one baby with another",
+	
 	"pillName0": "Power Pill!",
 	"pillName1": "Speed Down",
 	"pillName2": "Speed Up",
@@ -309,7 +335,7 @@
 	"cardDescription33": "Gives twice as much hearts as Lil C.H.A.D.",
 	"cardDescription34": "When its armor is destroyed, it rushes down the line, biting enemies",
 	"cardDescription35": "Slows down nearby monsters and can regenerate its health",
-	"cardDescription36": "Can hit up to three targets in its lane, twice!",
+	"cardDescription36": "Сan hit up to three targets in its lane, twice!",
 	"cardDescription37": "Lobs clots of blood at targets that are closest to your room.",
 	"cardDescription38": "Short-range shooter that cost nothing!",
 	"cardDescription39": "Shoots fireballs that create friendly Imps out of defeated enemies",

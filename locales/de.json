@@ -11,6 +11,9 @@
         "ui_continue_button",
         "ui_item_soldout"
     ],
+
+    "languageName": "Deutsch",
+
     "goodNews": "Gute Neuigkeiten!",
     "newUpdate1": "Ein neues Update ist verfügbar!##",
     "newUpdate2": "Öffne die Downloadseite",
@@ -24,23 +27,37 @@
     "unknown": "Unbekannt",
     "wasntEncountered": "Noch nicht entdeckt",
     "chooseActive": "Aktiver Gegenstand (wähle einen)",
+
+    "switchOptionStateOn": "An",
+	"switchOptionStateOff": "Aus",
+
     "gamePaused": "Spiel pausiert",
     "gamePausedContinue": "Weiter",
     "gamePausedRestart": "Neustarten",
+
+    "menuCategoryAudio": "Audio",
+    "menuCategoryVideo": "Video",
+	"menuCategoryGame": "Spiel",
+
     "gameSettingMusic": "Musik Lautstärke",
     "gameSettingSound": "Geräusch Lautstärke",
-    "gameSettingMusicSpeed1": "Musik Geschwindigkeit: Hängt von Spielgeschwindigkeit ab",
-    "gameSettingMusicSpeed2": "Musik Geschwindigkeit: Ändert sich nicht",
-    "gameSettingFlashingEffectsOn": "Blinkeffekte: An",
-    "gameSettingFlashingEffectsOff": "Blinkeffekt: Aus",
-    "gameSettingAutoPauseOn": "Auto Pausieren: An",
-    "gameSettingAutoPauseOff": "Auto Pausieren: Aus",
+    "gameSettingMusicSpeed": "Geschwindigkeit",
+    "gameSettingMusicSpeed1": "Ändert sich nicht",
+    "gameSettingMusicSpeed2": "Hängt vom Spiel ab",
+    "gameSettingFlashingEffects": "Blinkeffekte",
+
+    "gameSettingAutoPause": "Auto Pausieren",
+
     "gameSettingFullscreen": "Vollbildmodus",
-    "gameSettingLanguage": "Sprache: Deutsch",
-    "gameSettingFastModeOn": "Schnelle Übergänge: An",
-    "gameSettingFastModeOff": "Schnelle Übergänge: Aus",
+    "gameSettingLanguage": "Sprache",
+    "gameSettingFastMode": "Schnelle Übergänge",
+    "gameSettingCardLayout": "Karten Layout",
+	"gameSettingCardLayout1": "Horizontal",
+	"gameSettingCardLayout2": "Vertikal",
+	"gameSettingPillPreview": "Pillen Vorschau",
+	"gameSettingPillPreviewDesc": "Bekannte Pillen werden beim Fallenlassen mit ihrem Namen angezeigt",
     "gamePausedQuit": "Spiel beenden",
-    "gameSettingWindowMode": "Fenster Modus",
+
     "gamePausedNewRun": "Neues Spiel",
     "gamePausedStats": "Statistik",
     "gamePausedAchievements": "Erfolge",
@@ -51,6 +68,7 @@
     "gamePausedQuitToMenu": "Zurück zum Menü",
     "gamePausedBack": "Zurück",
     "gamePausedSettings": "Einstellungen",
+
     "file": "Datei",
     "fileSelect": "Datei Auswahl",
     "gameMode1": "Normaler Modus",
@@ -61,15 +79,12 @@
     "gameMode2DescriptionLocked": "Zum freischalten, schaffe zwei durchläufe in einem Spiel",
     "gameMode3Description": "Mehr Wege zu spielen",
     "gameMode3DescriptionLocked": "Schaffe jedes Kapitel zum freischalten",
-    "gamePausedDescriptionRestart": "Halte R zum neustarten (dein Fortschritt geht verloren!)",
-    "gamePausedDescriptionQuitToMenu": "Halte zum verlassen (dein Fortschritt wird gespeichert)",
+    "gamePausedDescriptionRestart": "Zum neustarten gedrückt halten (dein Fortschritt geht verloren!)",
+    "gamePausedDescriptionQuitToMenu": "Zum verlassen gedrückt halten (dein Fortschritt wird gespeichert)",
     "gamePausedSocialTwitter": "Abbrechen (auf Twitter)",
     "gamePausedSocialDiscord": "Schicke eine bedrohliche Nachricht (auf Discord)",
     "gamePausedDescriptionAchievements": "Scroll hoch/runter indem du das Mausrad benutzt",
-    "gameSettingDescriptionSound": "LMB oder RMB um die Lautstärke anzupassen",
     "gameSettingDescriptionFullscreen": "Oder drücke einfach F",
-    "gameSettingCardStyleVertical": "Karten Stil: Vertikal",
-    "gameSettingCardStyleHorizontal": "Katen Stil: Horizontal",
     "gameSettingDescriptionCardStyle": "Beeinflusst die Anordnung der Felder",
     "statsUnlockedContent": "Freigeschalteter Inhalt: ",
     "statsKilledEnemies": "Besiegte Gegner: ",
@@ -129,6 +144,10 @@
     "challenges5": "Limitierte Edition",
     "challenges6": "Formwandler",
     "shapeShifterRotate": "Scroll hoch/runter (oder drücke Q/E) um die Form zu rotieren",
+
+    "it0name0": "Larven Ersetzungs Münze",
+	"it0name1": "Schwarze Kerze",
+
     "it1name0": "Rote schaufel",
     "it1name1": "Champion Gürtel",
     "it1name2": "Kleine Tasche",
@@ -162,10 +181,6 @@
     "it2name6": "Blutige Bindung",
     "it2name7": "Die Schwarze Bohne",
     "it2name8": "Auge der Gier",
-    "itChargerToken": "Larven Ersetzungs Münze",
-    "itChargerTokenDescription": "Erlaubt es dir eine deiner gefallener Larven zu ersetzen",
-    "itBlackCandle": "Schwarze Kerze",
-    "itBlackCandleDescription": "Erlaubt es dir, einen bestimmten Fluch zu brechen",
     "itActiveName0": "Buch der Schatten",
     "itActiveName1": "Fernbedienung des Arztes",
     "itActiveName2": "Die Kacke",
@@ -183,6 +198,10 @@
     "itActiveName14": "Hauch des Lebens",
     "itActiveName15": "Süßes Herz",
     "itActiveName16": "Tropfer",
+
+    "it0description0": "Erlaubt es dir eine deiner verwendeten Larven zu ersetzen",
+	"it0description1": "Erlaubt es dir, einen bestimmten Fluch zu brechen",
+
     "it1description0": "Nimm zurück, was dir gehört",
     "it1description1": "Mehr Wellen auf jeder Stufe",
     "it1description2": "Erlaubt es, vier Pillen zu tragen",
@@ -206,7 +225,8 @@
     "it1description19A": "Doppelt antippen, um Babies zu drehen",
     "it1description20": "Ändere dein Schicksal",
     "it1description21": "Lass es uns es etwas verlangsamen...",
-    "it1description22": "Zwei Belohnungen nach besiegtem Boss, entscheide dich",
+    "it1description22": "Wähle zwischen drei statt zwei Boss-Belohnungen",
+
     "it2description0": "Extra Energie",
     "it2description1": "Gibt 33% Rabatt im Laden",
     "it2description2": "Erlaubt es dir ein zusätzliches Babie mitzunehmen",
@@ -216,6 +236,7 @@
     "it2description6": "Platziert Stacheln vor deinen Verteidigungs-Babies",
     "it2description7": "Neu platzierte Babies furzen und vergiften Gegner in der Nähe",
     "it2description8": "Babies, die im vorherigen Level nicht gewählt wurden, kosten weniger",
+
     "itActiveDescription0": "Gibt eine Beschützende Aura",
     "itActiveDescription1": "Wiederverwendbarer Luftangriff",
     "itActiveDescription2": "Kacke des Friedens",
@@ -233,6 +254,7 @@
     "itActiveDescription14": "Bringt gefallene Babies wieder zurück ins Leben",
     "itActiveDescription15": "Starte mit mehr Herzen, opfert deinen slot für aktive Gegenstände",
     "itActiveDescription16": "Ermöglicht es, den Schießstil eines Babies mit einem anderen zu teilen",
+
     "pillName0": "Power Pille!",
     "pillName1": "Geschwindigkeit Runter",
     "pillName2": "Geschwindigkeit Hoch",
